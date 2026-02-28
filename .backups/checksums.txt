@@ -1,0 +1,10 @@
+a0df9e0fcbfe6c342db58bfc1e113da1  grc.conf
+1197cb590174bda7e28ab2ec282864fa  gui/ParamWidgets.py
+28b3fbf0bc6564b7e6e13827027301e6  gui/canvas/block.py
+a08e90630a2ac5396db7bbf312f6303c  gui/canvas/colors.py
+65d40e326f081c96e2100b0388f72b65  gui/canvas/connection.py
+edd6daf0cf10494a1534e981491169bf  gui/canvas/port.py
+97c560e67ad2cfcf2f8bcc9495a520b0  main.py
+bc1461006de8cc54a7930a387a1908e9  gui/DrawingArea.py
+352a4b3ae2a5f10a4123e2a4727059c8  gui/effects.py
+4680ce99c4a40ea4c0f09a7866fb287c  gui/sounds.py
