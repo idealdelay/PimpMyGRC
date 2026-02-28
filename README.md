@@ -19,6 +19,8 @@ Themes and visual effects for **GNURadio Companion 3.10**.
 
 Replaces GRC's stock look with fully themed colors, block rendering, connections, and ports. Includes a GTK4 theme switcher with a live animated preview so you can see exactly what you're getting into before you commit.
 
+![Theme Switcher UI](ui-screenshot.png)
+
 ## Themes
 
 | Theme | Vibe |
