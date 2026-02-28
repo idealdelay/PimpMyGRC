@@ -4,11 +4,11 @@ I started out wanting the simplest thing imaginable in GNU Radio: a plain black 
 
 Themes and visual effects for **GNURadio Companion 3.10**.
 
-![PimpMyGRC Preview](preview.gif)
-
 ## What it does
 
 Replaces GRC's stock look with fully themed colors, block rendering, connections, and ports. Includes a GTK4 theme switcher with a live animated preview so you can see exactly what you're getting into before you commit.
+
+![PimpMyGRC Preview](preview.gif)
 
 ![Theme Switcher UI](ui-screenshot.png)
 
